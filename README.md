@@ -4,5 +4,5 @@ Speech Recognition test using ROS turtlesim.
 Packages: pocketsphinx, festival, mixer.
 Media: https://vimeo.com/238796206
  
- 
+@Jose Barreiros 2017 
  
